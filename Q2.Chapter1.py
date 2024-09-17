@@ -13,6 +13,7 @@ if generated_number % 2 == 0:
 # Display the final generated number
 print("The dynamic number generated is:", generated_number)
 
+
 # Step 2: Open the image file
 img = Image.open('chapter1.jpg')
 pixels = img.load()
